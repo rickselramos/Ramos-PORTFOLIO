@@ -100,3 +100,58 @@ td {
   padding: 10px;
   text-align: left
 }
+
+#about-photo {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  align-items: flex-start;
+  margin-top: 40px;
+}
+
+#about-photo .image-block {
+  flex: 0 0 250px;
+}
+
+#about-photo .image-block img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+#about-photo .text-block {
+  flex: 1;
+}
+
+.skills-images {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  margin-top: 20px;
+  justify-items: center;
+}
+
+.skill-item {
+  text-align: center;
+}
+
+.skill-label {
+  font-weight: bold;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.skill-item img {
+  width: 250px;
+  height: 250px;
+  object-fit: contain;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto;
+}
+
+.skill-item:nth-child(4),
+.skill-item:nth-child(5) {
+  grid-column: span 1;
+}
