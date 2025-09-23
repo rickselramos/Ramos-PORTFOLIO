@@ -31,4 +31,4 @@ Building my portfolio site felt tough yet rewarding in itself. As a beginner, I 
 The other important thing for me was learning about accessibility: adding alt texts to images, using a good contrast ratio, and employing semantic HTML tags such as . It was tough, but I am proud of what I built because it shows what I have put in and how I have grown as a student. 
 For future improvements, I want to add things such as contact forms, some hover effects, and maybe simple animations to make the site dynamic. I also want to look up JavaScript for some functionality improvement. The layout and the content will be further refined to make this site clean, responsive, and true to my story. This taught me a lot-not just about coding but also about persistence and learning through action.
 
-[Screenshot 8: README.md File in Repository](your-screenshot-file.png)
+[Screenshot 8: README.md File in Repository](ss8.png)
